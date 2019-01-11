@@ -6,3 +6,5 @@ Disallow: /categories/
 
 Sitemap: https://esgbox.com/sitemap.xml
 Sitemap: https://esgbox.com/baidusitemap.xml
+npm install hexo-baidu-url-submit --save
+

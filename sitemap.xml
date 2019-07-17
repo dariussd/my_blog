@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://esgbox.com/20190717_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190718_nba_predict.html</loc>
+    
+    <lastmod>2019-07-17T07:35:40.232Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190717_nba_review.html</loc>
+    
+    <lastmod>2019-07-17T07:35:40.232Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190716_nba_review.html</loc>
     
     <lastmod>2019-07-16T07:35:32.279Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190716_nba_review.html</loc>
+    <loc>https://esgbox.com/20190717_nba_predict.html</loc>
     
     <lastmod>2019-07-16T07:35:32.279Z</lastmod>
     
@@ -170,14 +184,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190705_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190704_nba_review.html</loc>
     
     <lastmod>2019-07-04T07:35:45.674Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190704_nba_review.html</loc>
+    <loc>https://esgbox.com/20190705_nba_predict.html</loc>
     
     <lastmod>2019-07-04T07:35:45.674Z</lastmod>
     
@@ -226,13 +240,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190630_nba_review.html</loc>
-    
-    <lastmod>2019-06-30T07:35:44.361Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190701_nba_predict.html</loc>
     
     <lastmod>2019-06-30T07:35:44.361Z</lastmod>
@@ -240,9 +247,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190630_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190630_nba_review.html</loc>
     
-    <lastmod>2019-06-29T07:35:44.795Z</lastmod>
+    <lastmod>2019-06-30T07:35:44.361Z</lastmod>
     
   </url>
   
@@ -254,9 +261,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190628_nba_review.html</loc>
+    <loc>https://esgbox.com/20190630_nba_predict.html</loc>
     
-    <lastmod>2019-06-28T07:35:48.817Z</lastmod>
+    <lastmod>2019-06-29T07:35:44.795Z</lastmod>
     
   </url>
   
@@ -268,9 +275,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190628_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190628_nba_review.html</loc>
     
-    <lastmod>2019-06-27T07:35:42.893Z</lastmod>
+    <lastmod>2019-06-28T07:35:48.817Z</lastmod>
     
   </url>
   
@@ -282,9 +289,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190626_nba_review.html</loc>
+    <loc>https://esgbox.com/20190628_nba_predict.html</loc>
     
-    <lastmod>2019-06-26T07:35:44.763Z</lastmod>
+    <lastmod>2019-06-27T07:35:42.893Z</lastmod>
     
   </url>
   
@@ -296,9 +303,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190626_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190626_nba_review.html</loc>
     
-    <lastmod>2019-06-25T07:35:57.152Z</lastmod>
+    <lastmod>2019-06-26T07:35:44.763Z</lastmod>
     
   </url>
   
@@ -310,9 +317,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190624_nba_review.html</loc>
+    <loc>https://esgbox.com/20190626_nba_predict.html</loc>
     
-    <lastmod>2019-06-24T07:36:06.204Z</lastmod>
+    <lastmod>2019-06-25T07:35:57.152Z</lastmod>
     
   </url>
   
@@ -324,14 +331,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190624_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190624_nba_review.html</loc>
+    
+    <lastmod>2019-06-24T07:36:06.204Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190623_nba_review.html</loc>
     
     <lastmod>2019-06-23T07:36:07.494Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190623_nba_review.html</loc>
+    <loc>https://esgbox.com/20190624_nba_predict.html</loc>
     
     <lastmod>2019-06-23T07:36:07.494Z</lastmod>
     
@@ -352,13 +366,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190621_nba_review.html</loc>
-    
-    <lastmod>2019-06-21T07:35:58.461Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190622_nba_predict.html</loc>
     
     <lastmod>2019-06-21T07:35:58.461Z</lastmod>
@@ -366,14 +373,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190621_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190621_nba_review.html</loc>
+    
+    <lastmod>2019-06-21T07:35:58.461Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190620_nba_review.html</loc>
     
     <lastmod>2019-06-20T07:36:02.601Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190620_nba_review.html</loc>
+    <loc>https://esgbox.com/20190621_nba_predict.html</loc>
     
     <lastmod>2019-06-20T07:36:02.601Z</lastmod>
     
@@ -436,13 +450,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190616_nba_predict.html</loc>
-    
-    <lastmod>2019-06-15T07:35:52.804Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190615_nba_review.html</loc>
     
     <lastmod>2019-06-15T07:35:52.804Z</lastmod>
@@ -450,9 +457,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190614_nba_review.html</loc>
+    <loc>https://esgbox.com/20190616_nba_predict.html</loc>
     
-    <lastmod>2019-06-14T07:35:49.837Z</lastmod>
+    <lastmod>2019-06-15T07:35:52.804Z</lastmod>
     
   </url>
   
@@ -464,9 +471,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190614_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190614_nba_review.html</loc>
     
-    <lastmod>2019-06-13T07:35:50.335Z</lastmod>
+    <lastmod>2019-06-14T07:35:49.837Z</lastmod>
     
   </url>
   
@@ -478,14 +485,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190612_nba_review.html</loc>
+    <loc>https://esgbox.com/20190614_nba_predict.html</loc>
+    
+    <lastmod>2019-06-13T07:35:50.335Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190613_nba_predict.html</loc>
     
     <lastmod>2019-06-12T07:35:51.295Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190613_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190612_nba_review.html</loc>
     
     <lastmod>2019-06-12T07:35:51.295Z</lastmod>
     
@@ -506,13 +520,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190610_nba_review.html</loc>
-    
-    <lastmod>2019-06-10T07:35:49.522Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190611_nba_predict.html</loc>
     
     <lastmod>2019-06-10T07:35:49.522Z</lastmod>
@@ -520,14 +527,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190610_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190610_nba_review.html</loc>
+    
+    <lastmod>2019-06-10T07:35:49.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190609_nba_review.html</loc>
     
     <lastmod>2019-06-09T07:35:46.774Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190609_nba_review.html</loc>
+    <loc>https://esgbox.com/20190610_nba_predict.html</loc>
     
     <lastmod>2019-06-09T07:35:46.774Z</lastmod>
     
@@ -562,14 +576,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190606_nba_review.html</loc>
+    <loc>https://esgbox.com/20190607_nba_predict.html</loc>
     
     <lastmod>2019-06-06T07:35:47.716Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190607_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190606_nba_review.html</loc>
     
     <lastmod>2019-06-06T07:35:47.716Z</lastmod>
     
@@ -646,14 +660,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190601_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190531_nba_review.html</loc>
     
     <lastmod>2019-05-31T07:35:41.446Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190531_nba_review.html</loc>
+    <loc>https://esgbox.com/20190601_nba_predict.html</loc>
     
     <lastmod>2019-05-31T07:35:41.446Z</lastmod>
     
@@ -674,14 +688,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190529_nba_review.html</loc>
+    <loc>https://esgbox.com/20190530_nba_predict.html</loc>
     
     <lastmod>2019-05-29T07:35:53.677Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190530_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190529_nba_review.html</loc>
     
     <lastmod>2019-05-29T07:35:53.677Z</lastmod>
     
@@ -870,13 +884,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190409_nba_predict.html</loc>
-    
-    <lastmod>2019-04-08T07:35:29.760Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190408_nba_review.html</loc>
     
     <lastmod>2019-04-08T07:35:29.760Z</lastmod>
@@ -884,14 +891,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190408_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190409_nba_predict.html</loc>
+    
+    <lastmod>2019-04-08T07:35:29.760Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190407_nba_review.html</loc>
     
     <lastmod>2019-04-07T07:36:11.105Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190407_nba_review.html</loc>
+    <loc>https://esgbox.com/20190408_nba_predict.html</loc>
     
     <lastmod>2019-04-07T07:36:11.105Z</lastmod>
     
@@ -919,14 +933,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190404_nba_review.html</loc>
+    <loc>https://esgbox.com/20190405_nba_predict.html</loc>
     
     <lastmod>2019-04-04T07:35:44.215Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190405_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190404_nba_review.html</loc>
     
     <lastmod>2019-04-04T07:35:44.215Z</lastmod>
     
@@ -1164,13 +1178,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190317_nba_predict.html</loc>
-    
-    <lastmod>2019-03-16T07:35:41.515Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190316_nba_review.html</loc>
     
     <lastmod>2019-03-16T07:35:41.515Z</lastmod>
@@ -1178,14 +1185,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190315_nba_review.html</loc>
+    <loc>https://esgbox.com/20190317_nba_predict.html</loc>
+    
+    <lastmod>2019-03-16T07:35:41.515Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190316_nba_predict.html</loc>
     
     <lastmod>2019-03-15T07:35:38.896Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190316_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190315_nba_review.html</loc>
     
     <lastmod>2019-03-15T07:35:38.896Z</lastmod>
     
@@ -1220,13 +1234,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190313_nba_predict.html</loc>
-    
-    <lastmod>2019-03-12T07:35:33.789Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190312_nba_review.html</loc>
     
     <lastmod>2019-03-12T07:35:33.789Z</lastmod>
@@ -1234,14 +1241,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190312_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190313_nba_predict.html</loc>
+    
+    <lastmod>2019-03-12T07:35:33.789Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190311_nba_review.html</loc>
     
     <lastmod>2019-03-11T07:35:26.663Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190311_nba_review.html</loc>
+    <loc>https://esgbox.com/20190312_nba_predict.html</loc>
     
     <lastmod>2019-03-11T07:35:26.663Z</lastmod>
     
@@ -1262,14 +1276,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190310_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190309_nba_review.html</loc>
     
     <lastmod>2019-03-09T07:35:38.334Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190309_nba_review.html</loc>
+    <loc>https://esgbox.com/20190310_nba_predict.html</loc>
     
     <lastmod>2019-03-09T07:35:38.334Z</lastmod>
     
@@ -1304,14 +1318,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190307_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190306_nba_review.html</loc>
     
     <lastmod>2019-03-06T07:35:40.542Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190306_nba_review.html</loc>
+    <loc>https://esgbox.com/20190307_nba_predict.html</loc>
     
     <lastmod>2019-03-06T07:35:40.542Z</lastmod>
     
@@ -1332,14 +1346,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190304_nba_review.html</loc>
+    <loc>https://esgbox.com/20190305_nba_predict.html</loc>
     
     <lastmod>2019-03-04T07:35:29.425Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190305_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190304_nba_review.html</loc>
     
     <lastmod>2019-03-04T07:35:29.425Z</lastmod>
     
@@ -1374,14 +1388,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190302_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190301_nba_review.html</loc>
     
     <lastmod>2019-03-01T07:35:30.353Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190301_nba_review.html</loc>
+    <loc>https://esgbox.com/20190302_nba_predict.html</loc>
     
     <lastmod>2019-03-01T07:35:30.353Z</lastmod>
     
@@ -1416,13 +1430,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190227_nba_predict.html</loc>
-    
-    <lastmod>2019-02-26T07:35:22.315Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190226_nba_review.html</loc>
     
     <lastmod>2019-02-26T07:35:22.315Z</lastmod>
@@ -1430,9 +1437,9 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190225_nba_review.html</loc>
+    <loc>https://esgbox.com/20190227_nba_predict.html</loc>
     
-    <lastmod>2019-02-25T07:35:37.654Z</lastmod>
+    <lastmod>2019-02-26T07:35:22.315Z</lastmod>
     
   </url>
   
@@ -1444,14 +1451,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190224_nba_review.html</loc>
+    <loc>https://esgbox.com/20190225_nba_review.html</loc>
+    
+    <lastmod>2019-02-25T07:35:37.654Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190225_nba_predict.html</loc>
     
     <lastmod>2019-02-24T07:35:27.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190225_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190224_nba_review.html</loc>
     
     <lastmod>2019-02-24T07:35:27.662Z</lastmod>
     
@@ -1500,13 +1514,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190220_nba_review.html</loc>
-    
-    <lastmod>2019-02-20T07:35:07.452Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190221_nba_predict.html</loc>
     
     <lastmod>2019-02-20T07:35:07.452Z</lastmod>
@@ -1514,14 +1521,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190220_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190220_nba_review.html</loc>
+    
+    <lastmod>2019-02-20T07:35:07.452Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190219_nba_review.html</loc>
     
     <lastmod>2019-02-19T07:35:10.901Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190219_nba_review.html</loc>
+    <loc>https://esgbox.com/20190220_nba_predict.html</loc>
     
     <lastmod>2019-02-19T07:35:10.901Z</lastmod>
     
@@ -1626,13 +1640,6 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190211_nba_review.html</loc>
-    
-    <lastmod>2019-02-11T09:56:47.744Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://esgbox.com/20190212_nba_predict.html</loc>
     
     <lastmod>2019-02-11T09:56:47.744Z</lastmod>
@@ -1640,14 +1647,21 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190211_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190211_nba_review.html</loc>
+    
+    <lastmod>2019-02-11T09:56:47.744Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://esgbox.com/20190210_nba_review.html</loc>
     
     <lastmod>2019-02-10T08:36:35.401Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190210_nba_review.html</loc>
+    <loc>https://esgbox.com/20190211_nba_predict.html</loc>
     
     <lastmod>2019-02-10T08:36:35.401Z</lastmod>
     
@@ -1668,14 +1682,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190208_nba_review.html</loc>
+    <loc>https://esgbox.com/20190209_nba_predict.html</loc>
     
     <lastmod>2019-02-08T08:35:16.290Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190209_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190208_nba_review.html</loc>
     
     <lastmod>2019-02-08T08:35:16.290Z</lastmod>
     
@@ -1787,14 +1801,14 @@
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190126_nba_review.html</loc>
+    <loc>https://esgbox.com/20190127_nba_predict.html</loc>
     
     <lastmod>2019-01-26T08:30:54.871Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://esgbox.com/20190127_nba_predict.html</loc>
+    <loc>https://esgbox.com/20190126_nba_review.html</loc>
     
     <lastmod>2019-01-26T08:30:54.871Z</lastmod>
     
